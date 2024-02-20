@@ -1,5 +1,5 @@
-./vidly-demo/node_modules
-./npm-demo/node_modules
-./npm-demo/node_modules
-./npm-demo/node_modules
-./npm-demo/middleware
+vidly-demo/node_modules
+mongo-demo/node_modules
+express-demo/node_modules
+npm-demo/node_modules
+npm-demo/middleware
